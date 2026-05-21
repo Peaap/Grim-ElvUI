@@ -1,2 +1,5 @@
 workflow/
 *.zip
+/README.md
+/CHANGELOG.md
+/.vs

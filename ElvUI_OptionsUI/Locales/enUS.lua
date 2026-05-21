@@ -919,7 +919,6 @@ L["Short Channels"] = true
 L["Shortcut to 'Filters' section of the config."] = true
 L["Shortcut to global filters."] = true
 L["Shortcuts"] = true
-L["Ebonhold addon UI skinning options."] = true
 L["Short Numerical Values"] = true
 L["Shorten numerical values (e.g. 100000 becomes 100k)."] = true
 L["Shorten the channel names in chat."] = true

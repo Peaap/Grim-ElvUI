@@ -113,10 +113,6 @@ V.skins = {
 	}
 }
 
-V.ebonhold = {
-	enable = true,
-}
-
 V.tooltip = {
 	enable = true,
 }

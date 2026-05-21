@@ -23,6 +23,5 @@ Tooltip.lua
 UnitFrames.lua
 DataBars.lua
 Maps.lua
-Ebonhold.lua
 ModuleControl.lua
 Tags.lua
